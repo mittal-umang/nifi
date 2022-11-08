@@ -14,4 +14,5 @@
 # limitations under the License.
 org.apache.nifi.oauth2.OAuth2TokenProviderImpl
 org.apache.nifi.oauth2.StandardOauth2AccessTokenProvider
+org.apache.nifi.oauth2.GeneralOauth2AccessTokenProvider
 
